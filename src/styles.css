@@ -9,5 +9,9 @@
 
 
 .sei-edit-cell {
-            border: 1px solid black;
-        }
+   border: 1px solid black;
+}
+.grid {
+    height: auto;
+    max-height: 300px;
+}
